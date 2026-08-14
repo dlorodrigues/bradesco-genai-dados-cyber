@@ -40,7 +40,16 @@ Módulo focado no entendimento conceitual de Inteligência Artificial, Modelos d
 ---
 
 ## 01.4 Introdução à Engenharia de Prompts
-> *Aguardando atualização...*
+
+* **Status:** 🟢 Concluído
+
+### 📌 Conteúdo Estudado:
+* **Fundamentos da Engenharia de Prompts:** Entendimento de por que a Engenharia de Prompts é uma habilidade crucial e visão geral de como as LLMs interpretam as instruções fornecidas.
+* **Mecanismos de Atenção e Memória:** Como os modelos de linguagem "entendem" uma instrução e "mantêm a memória" (contexto) ao longo de uma interação.
+* **Elementos Essenciais de um Prompt:** Estruturação de instruções claras, definição de papéis (roles), contextualização e especificações de formato para respostas precisas.
+* **Aplicações e Boas Práticas no Dia a Dia:** Utilização prática no ambiente corporativo, boas práticas de escrita e os principais cuidados/limitações no uso de prompts.
+
+---
 
 ## 01.5 Técnicas de Engenharia de Prompt
 > *Aguardando atualização...*
