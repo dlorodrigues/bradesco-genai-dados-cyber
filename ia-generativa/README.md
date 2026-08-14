@@ -28,7 +28,16 @@ Módulo focado no entendimento conceitual de Inteligência Artificial, Modelos d
 ---
 
 ## 01.3 Fundamentos de Modelos de Linguagem de Grande Escala
-> *Aguardando atualização...*
+
+* **Status:** 🟢 Concluído
+
+### 📌 Conteúdo Estudado:
+* **Principais Características dos LLMs:** Análise das capacidades de generalização das Large Language Models e exploração prática do comportamento desses modelos diante de diferentes tarefas.
+* **Desafios no Desenvolvimento:** Estudo das limitações técnicas das LLMs (como alucinações, janela de contexto e viés) e estratégias hands-on para mitigar esses problemas.
+* **Aplicações Práticas:** Casos de uso do mercado e implementação prática de LLMs aplicada a cenários como E-commerce e atendimento ao cliente.
+* **Impacto na Sociedade e Mercado:** Análise crítica do impacto dos modelos de linguagem no mercado de trabalho moderno e o papel da IA na transformação digital das empresas.
+
+---
 
 ## 01.4 Introdução à Engenharia de Prompts
 > *Aguardando atualização...*
