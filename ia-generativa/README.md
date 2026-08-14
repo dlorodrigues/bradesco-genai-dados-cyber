@@ -52,4 +52,13 @@ Módulo focado no entendimento conceitual de Inteligência Artificial, Modelos d
 ---
 
 ## 01.5 Técnicas de Engenharia de Prompt
-> *Aguardando atualização...*
+
+* **Status:** 🟢 Concluído
+
+### 📌 Conteúdo Estudado:
+* **Construção e Estrutura de Prompts:** Análise detalhada dos componentes fundamentais (Instrução, Contexto, Dados de Entrada e Indicadores de Saída) para garantir previsibilidade e precisão nas respostas.
+* **Técnicas Avançadas:** Aplicação de padrões como *Zero-shot*, *Few-shot Prompting* (uso de exemplos), *Chain-of-Thought* (Cadeia de Pensamento) e especificação de personas/papéis.
+* **Refinamento e Clareza:** Estratégias para redução de ambiguidades, restrição de escopo e técnicas de formatação (Markdown, JSON e listas) para integração com outros sistemas.
+* **Otimização para Casos Reais:** Testes práticos para ajustar o tom, estilo, nível de detalhamento e limites de tokens da resposta gerada.
+
+---
