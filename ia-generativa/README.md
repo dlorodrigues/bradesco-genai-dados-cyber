@@ -16,7 +16,16 @@ Módulo focado no entendimento conceitual de Inteligência Artificial, Modelos d
 ---
 
 ## 01.2 Fundamentos da IA Moderna: Machine Learning, LLMs, IA Generativa e Agentes
-> *Aguardando atualização...*
+
+* **Status:** 🟢 Concluído
+
+### 📌 Conteúdo Estudado:
+* **Como a Inteligência Artificial Nasceu:** A evolução histórica da IA, desde os conceitos fundamentais e sistemas baseados em regras até a ascensão do Machine Learning.
+* **Treinamento de IA e O que são LLMs:** Como os modelos de linguagem são treinados com grandes volumes de dados (pré-treinamento e ajuste fino) e a função das Large Language Models no ecossistema moderno.
+* **Entendendo Deep Learning:** A estrutura das redes neurais profundas, como os dados são processados em camadas e a importância dessa arquitetura para o avanço do aprendizado de máquina.
+* **A Era das IAs Generativas:** O salto tecnológico dos modelos preditivos para os modelos geradores (texto, imagem e código) e o surgimento do conceito de Agentes Autônomos.
+
+---
 
 ## 01.3 Fundamentos de Modelos de Linguagem de Grande Escala
 > *Aguardando atualização...*
