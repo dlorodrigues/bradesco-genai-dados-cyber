@@ -4,6 +4,15 @@ Módulo focado no entendimento conceitual de Inteligência Artificial, Modelos d
 
 ---
 
+## 🎓 Certificação do Módulo
+
+| Módulo | Carga Horária | Conclusão | Código de Validação |
+| **IA Generativa: Fundamentos, Prompting e Aplicações** | 12h | 15/08/2026 | `VSB0CAX9` |
+
+<div align="center">
+  <img src="./assets/certificado-ia-generativa.png" alt="Certificado IA Generativa DIO" width="700"/>
+</div>
+
 ## 01.1 Boas vindas ao Bootcamp Bradesco - GenAI, Dados & Cyber
 
 * **Status:** 🟢 Concluído
