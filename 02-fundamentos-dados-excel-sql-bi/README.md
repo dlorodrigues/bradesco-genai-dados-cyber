@@ -11,7 +11,16 @@ Módulo dedicado aos fundamentos da análise de dados, cobrindo o uso do Excel 3
 ---
 
 ## 02.1 Introdução ao Excel 365
-> *Aguardando atualização...*
+
+* **Status:** 🟢 Concluído
+
+### 📌 Conteúdo Estudado:
+* **Estrutura Fundamental do Excel:** Diferenciação e navegação entre pastas de trabalho (*Workbook*) e planilhas (*Worksheet*), compreendendo o ecossistema do Microsoft 365.
+* **Manipulação de Células e Intervalos:** Conceitos de células, intervalos de dados (*Ranges*), navegação por menús contextuais e atalhos essenciais.
+* **Fixação e Congelamento de Células:** Aplicação prática de referências absolutas/mistas e congelamento de painéis (*Cells Freezing*) para otimização da navegação em grandes conjuntos de dados.
+* **Construção de Tabelas na Prática:** Criação e formatação prática de tabelas funcionais para organização, tratamento e análise inicial de dados.
+
+---
 
 ## 02.2 Trabalhando com Microsoft Copilot
 > *Aguardando atualização...*
