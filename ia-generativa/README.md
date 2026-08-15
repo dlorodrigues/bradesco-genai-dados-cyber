@@ -62,3 +62,14 @@ Módulo focado no entendimento conceitual de Inteligência Artificial, Modelos d
 * **Otimização para Casos Reais:** Testes práticos para ajustar o tom, estilo, nível de detalhamento e limites de tokens da resposta gerada.
 
 ---
+
+## 01.6 Desafios de Projetos: Crie Um Portfólio Vencedor
+
+* **Status:** 🟢 Concluído
+
+### 📌 Conteúdo Estudado:
+* **Metodologia PBL (Project-Based Learning):** Aplicação prática da aprendizagem baseada em projetos para a construção de soluções reais e desenvolvimento de competências técnicas exigidas pelo mercado.
+* **Construção de Portfólio & Empregabilidade:** Estratégias para estruturar projetos no GitHub de forma profissional, destacando habilidades técnicas e resolução de problemas para atrair recrutadores.
+* **Desafios de Projeto na Prática:** A relevância de transformar conceitos teóricos de IA e desenvolvimento em repositórios documentados, organizados e prontos para demonstração em entrevistas.
+
+---
