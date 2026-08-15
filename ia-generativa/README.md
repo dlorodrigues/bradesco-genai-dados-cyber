@@ -7,6 +7,7 @@ Módulo focado no entendimento conceitual de Inteligência Artificial, Modelos d
 ## 🎓 Certificação do Módulo
 
 | Módulo | Carga Horária | Conclusão | Código de Validação |
+| :--- | :---: | :---: | :---: |
 | **IA Generativa: Fundamentos, Prompting e Aplicações** | 12h | 15/08/2026 | `VSB0CAX9` |
 
 <div align="center">
