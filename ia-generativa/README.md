@@ -73,3 +73,15 @@ Módulo focado no entendimento conceitual de Inteligência Artificial, Modelos d
 * **Desafios de Projeto na Prática:** A relevância de transformar conceitos teóricos de IA e desenvolvimento em repositórios documentados, organizados e prontos para demonstração em entrevistas.
 
 ---
+
+## 01.7 Desafio de Projeto: Treinando uma IA de Aprendizagem com NotebookLM
+
+* **Status:** 🟢 Concluído
+
+### 📌 Conteúdo Estudado e Prática:
+* **Exploração do Google NotebookLM:** Estudo da arquitetura do NotebookLM como uma ferramenta assistiva grounded (baseada em fontes de dados específicas) para potencializar o aprendizado contínuo.
+* **Curadoria e Ingestão de Fontes:** Mapeamento, seleção e organização de documentos, PDFs e notas técnicas para alimentação da base de conhecimento da IA.
+* **Construção do Ambiente de Aprendizagem:** Criação prática do notebook, configuração das fontes e análise dos formatos de saída do estúdio (resumos automáticos, guias de estudo e perguntas e respostas).
+* **Entrega do Projeto:** Estruturação da solução e aplicação prática da IA generativa como um mentor/assistente de estudos personalizado.
+
+---
