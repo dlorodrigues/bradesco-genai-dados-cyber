@@ -23,7 +23,16 @@ Módulo dedicado aos fundamentos da análise de dados, cobrindo o uso do Excel 3
 ---
 
 ## 02.2 Trabalhando com Microsoft Copilot
-> *Aguardando atualização...*
+
+* **Status:** 🟢 Concluído
+
+### 📌 Conteúdo Estudado:
+* **Visão Geral do Microsoft Copilot:** Compreensão do funcionamento do assistente de IA da Microsoft e seus casos de uso na produtividade diária.
+* **Integração com a Suíte Office:** Aplicação prática do Copilot integrado ao ecossistema do Microsoft 365 para automação e análise de dados.
+* **Análise de Tabelas com IA:** Utilização do Copilot para interpretação, sumarização e extração automatizada de insights a partir de tabelas.
+* **Validação e Governança:** Cuidados essenciais no uso de dados gerados por IA, incluindo verificação de consistência, prevenção de alucinações e análise crítica dos resultados.
+
+---
 
 ## 02.3 Introdução a Banco de Dados Relacionais
 > *Aguardando atualização...*
