@@ -35,7 +35,16 @@ Módulo dedicado aos fundamentos da análise de dados, cobrindo o uso do Excel 3
 ---
 
 ## 02.3 Introdução a Banco de Dados Relacionais
-> *Aguardando atualização...*
+
+* **Status:** 🟢 Concluído
+
+### 📌 Conteúdo Estudado:
+* **Fundamentos de Bancos de Dados Relacionais:** Entendimento dos conceitos de SGBD (Sistema Gerenciador de Banco de Dados), arquitetura relacional e organização de dados em tabelas.
+* **Modelagem de Dados & Relacionamentos:** Estudo da estrutura de tabelas, aplicação de Chaves Primárias (PK) e Chaves Estrangeiras (FK), além da definição de cardinalidades (1:1, 1:N, N:N).
+* **Normalização de Dados:** Processos e regras de normalização para garantia da integridade referencial e eliminação de dados redundantes.
+* **Consultas e Junções (Joins):** Escrita de consultas SQL, filtros, agrupamentos (*GROUP BY*), ordenação e uso de junções (*JOINs*) para cruzamento de dados de múltiplas tabelas.
+
+---
 
 ## 02.4 Utilizando Microsoft Copilot para escrever consultas SQL
 > *Aguardando atualização...*
