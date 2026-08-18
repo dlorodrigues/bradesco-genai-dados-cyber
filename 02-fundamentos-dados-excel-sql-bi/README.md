@@ -71,4 +71,13 @@ Módulo dedicado aos fundamentos da análise de dados, cobrindo o uso do Excel 3
 ---
 
 ## 02.6 Extraindo Insights do Feedback de Clientes Bancários
-> *Aguardando atualização...*
+
+* **Status:** 🟢 Concluído
+
+### 📌 Conteúdo Estudado:
+* **Engenharia de Prompts para Análise de Sentimento:** Formulação de instruções estruturadas (contexto, intenção clara e critérios de análise) para processamento de linguagem natural (NLP) em avaliações de clientes.
+* **Extração de Insights Comerciais e Operacionais:** Categorização automática de feedbacks em elogios, reclamações, sugestões e identificação de gargalos em serviços bancários.
+* **Governança de Dados e LGPD:** Cuidados no tratamento de dados sensíveis e anonimização de informações pessoais dos clientes antes do envio para modelos de IA.
+* **Construção de Prompt Final:** Desenvolvimento passo a passo de um prompt instrucional robusto para orientar LLMs no suporte à tomada de decisão executiva.
+
+---
