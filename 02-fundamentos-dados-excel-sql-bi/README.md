@@ -59,7 +59,16 @@ Módulo dedicado aos fundamentos da análise de dados, cobrindo o uso do Excel 3
 ---
 
 ## 02.5 Criando um Processo de ETL com Excel e Power Query
-> *Aguardando atualização...*
+
+* **Status:** 🟢 Concluído
+
+### 📌 Conteúdo Estudado:
+* **Conceito e Arquitetura de ETL:** Compreensão dos pilares de Extração, Transformação e Carga (*Extract, Transform, Load*) aplicados ao tratamento automatizado de dados.
+* **Uso e Navegação no Power Query:** Visão geral do editor do Power Query no Excel para conexão, modelagem e automação de fluxos de dados.
+* **Tratamento e Transformação de Dados:** Aplicação de regras de limpeza, formatação de tipos numéricos e padronização de conjuntos de dados em um estudo de caso prático (*Case Situation*).
+* **Processo de Carga (Load):** Estruturação do carregamento dos dados limpos de volta para a planilha/data model para consumo e análise visual.
+
+---
 
 ## 02.6 Extraindo Insights do Feedback de Clientes Bancários
 > *Aguardando atualização...*
