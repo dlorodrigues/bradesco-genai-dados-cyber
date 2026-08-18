@@ -6,7 +6,17 @@ Módulo dedicado aos fundamentos da análise de dados, cobrindo o uso do Excel 3
 
 ## 🎓 Certificação do Módulo
 
-> *Aguardando conclusão do módulo para adição do certificado...*
+<div align="center">
+
+| Módulo | Carga Horária | Conclusão | Código de Validação |
+| :--- | :---: | :---: | :---: |
+| **Fundamentos de Dados: Excel, SQL e Business Intelligence** | 9h | 18/08/2026 | `F8XUHR1A` |
+
+<br/>
+
+<img src="./assets/certificado-fundamentos-dados.png" alt="Certificado Fundamentos de Dados DIO" width="700"/>
+
+</div>
 
 ---
 
