@@ -47,7 +47,16 @@ Módulo dedicado aos fundamentos da análise de dados, cobrindo o uso do Excel 3
 ---
 
 ## 02.4 Utilizando Microsoft Copilot para escrever consultas SQL
-> *Aguardando atualização...*
+
+* **Status:** 🟢 Concluído
+
+### 📌 Conteúdo Estudado:
+* **Geração de Scripts e Schema:** Uso do Microsoft Copilot para criação automatizada de DDL (Data Definition Language), definição de estruturas de tabelas e geração de dados fictícios de teste (*seeds*).
+* **Automação de Migrations:** Criação e versionamento de *migrations* com suporte de IA para gerenciamento da evolução do banco de dados.
+* **Criação de Views e Otimização:** Desenvolvimento de visões (*Views*) e consultas SQL intermediárias/avançadas assistidas por IA para abstração de queries complexas.
+* **Execução e Validação Prática:** Setup do ambiente de projeto, execução de scripts gerados e validação da integridade das consultas no SGBD.
+
+---
 
 ## 02.5 Criando um Processo de ETL com Excel e Power Query
 > *Aguardando atualização...*
