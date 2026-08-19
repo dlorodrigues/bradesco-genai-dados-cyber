@@ -11,7 +11,16 @@ Módulo dedicado aos conceitos fundamentais da linguagem Python, cobrindo config
 ---
 
 ## 03.1 Ambiente de Desenvolvimento e Primeiros Passos com Python
-> *Aguardando atualização...*
+
+* **Status:** 🟢 Concluído
+
+### 📌 Conteúdo Estudado:
+* **Conceitos e Características do Python:** Entendimento sobre a sintaxe limpa, linguagem interpretada, multiparadigma e ecossistema de desenvolvimento.
+* **Configuração de Ambiente:** Instalação e validação do interpretador Python, variáveis de ambiente (PATH) e configuração do editor de código.
+* **Modo Interativo vs. Scripts:** Execução de comandos no REPL (*Read-Eval-Print Loop*) e criação/execução de arquivos `.py` no terminal.
+* **Primeiro Programa:** Escrita do clássico script `primeiro_programa.py` utilizando a função nativa `print()`.
+
+---
 
 ## 03.2 Conhecendo a Linguagem de Programação Python
 > *Aguardando atualização...*
