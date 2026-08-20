@@ -36,7 +36,18 @@ Módulo dedicado aos conceitos fundamentais da linguagem Python, cobrindo config
 ---
 
 ## 03.3 Tipos de Operadores com Python
-> *Aguardando atualização...*
+
+* **Status:** 🟢 Concluído
+
+### 📌 Conteúdo Estudado:
+
+1. **Operadores Aritméticos:** Soma, subtração, multiplicação, divisão simples/inteira (`//`), resto da divisão (`%`) e exponenciação (`**`).
+2. **Operadores de Comparação:** Checagem de igualdade (`==`), diferença (`!=`) e ordens de grandeza (`>`, `<`, `>=`, `<=`).
+3. **Atribuição Reduzida:** Aplicação de operadores de atribuição compostos (`+=`, `-=`, `*=`, `/=`).
+4. **Lógica Booleana:** Combinação de expressões condicionais utilizando `and`, `or` e inversão com `not`.
+5. **Identidade e Associação:** Verificação de posição de memória com `is`/`is not` e checagem de pertencimento em sequências usando `in`/`not in`.
+
+---
 
 ## 03.4 Estruturas Condicionais e de Repetição em Python
 > *Aguardando atualização...*
