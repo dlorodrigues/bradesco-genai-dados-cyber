@@ -23,7 +23,17 @@ Módulo dedicado aos conceitos fundamentais da linguagem Python, cobrindo config
 ---
 
 ## 03.2 Conhecendo a Linguagem de Programação Python
-> *Aguardando atualização...*
+
+* **Status:** 🟢 Concluído
+
+### 📌 Conteúdo Estudado:
+* **Tipos Primitivos:** Manipulação de inteiros (`int`), decimais (`float`), textos (`str`) e booleanos (`bool`).
+* **Modo Interativo e Introspecção:** Utilização dos comandos nativos `dir()` e `help()` para exploração de métodos e documentação no terminal.
+* **Variáveis e Constantes:** Aplicação do Padrão PEP 8 com nomenclatura *snake_case* para variáveis e convenção em letras maiúsculas para constantes.
+* **Coerção e Conversão de Tipos:** Prática de *casting* para transformação segura entre tipos de dados.
+* **Entrada e Saída Customizada:** Leitura de dados com `input()` e formatação avançada de saídas no `print()` utilizando `sep`, `end` e *f-strings*.
+
+---
 
 ## 03.3 Tipos de Operadores com Python
 > *Aguardando atualização...*
