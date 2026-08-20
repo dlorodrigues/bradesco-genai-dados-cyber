@@ -62,7 +62,16 @@ Módulo dedicado aos conceitos fundamentais da linguagem Python, cobrindo config
 ---
 
 ## 03.5 Manipulando Strings com Python
-> *Aguardando atualização...*
+
+* **Status:** 🟢 Concluído
+
+### 📌 Conteúdo Estudado:
+* **Métodos Internos da Classe String:** Transformação de caixa (`upper`, `lower`, `title`), remoção de espaços (`strip`), alinhamento (`center`) e junção (`join`).
+* **Interpolação de Dados:** Formatação de textos e variáveis utilizando a sintaxe moderna de *f-strings*.
+* **Fatiamento de Strings (Slicing):** Extração de subsequências, acesso por índice, definição de passos e inversão de strings.
+* **Strings Triplas (Múltiplas Linhas):** Construção de blocos de texto multilinha preservando recuos e formatação original.
+
+---
 
 ## 03.6 Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional
 > *Aguardando atualização...*
