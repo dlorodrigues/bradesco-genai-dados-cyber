@@ -50,7 +50,16 @@ Módulo dedicado aos conceitos fundamentais da linguagem Python, cobrindo config
 ---
 
 ## 03.4 Estruturas Condicionais e de Repetição em Python
-> *Aguardando atualização...*
+
+* **Status:** 🟢 Concluído
+
+### 📌 Conteúdo Estudado:
+* **Indentação e Blocos de Código:** Importância do recuo obrigatório para delimitação de escopo e legibilidade no Python.
+* **Estruturas Condicionais:** Uso de `if`, `elif`, `else`, tratamento de estruturas aninhadas e sintaxe do operador ternário.
+* **Estrutura de Repetição `for`:** Iteração em sequências e uso da função integrada `range()` para repetições contadas.
+* **Estrutura de Repetição `while`:** Execução condicional de loops e controle de fluxo com `break` (interrupção) e `continue` (pular iteração).
+
+---
 
 ## 03.5 Manipulando Strings com Python
 > *Aguardando atualização...*
