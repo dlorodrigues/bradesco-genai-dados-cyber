@@ -86,4 +86,11 @@ Módulo dedicado aos conceitos fundamentais da linguagem Python, cobrindo config
 ---
 
 ## 03.7 Desafio de Código: Fundamentos de Programação com Python
-> *Aguardando atualização...*
+
+* **Status:** 🟢 Concluído
+
+### 📌 Conteúdo Estudado:
+* **Desafio 1/2 (Análise de Ações):** Comparação entre preço de abertura e fechamento utilizando estruturas condicionais (`if`/`elif`/`else`) e conversão de entradas (`split` e `int`).
+* **Desafio 2/2 (Caixa Alta no Destinatário):** Padronização de nomes de destinatários bancários utilizando o método nativo `.upper()` para tratamento de strings.
+
+---
