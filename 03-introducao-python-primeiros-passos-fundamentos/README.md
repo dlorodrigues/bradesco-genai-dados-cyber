@@ -74,7 +74,16 @@ Módulo dedicado aos conceitos fundamentais da linguagem Python, cobrindo config
 ---
 
 ## 03.6 Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional
-> *Aguardando atualização...*
+
+* **Status:** 🟢 Concluído
+
+### 📌 Conteúdo Estudado:
+* **Conceitos de PBL (Problem-Based Learning):** Aplicação prática de Aprendizagem Baseada em Problemas para decomposição de desafios de código em etapas lógicas.
+* **Pensamento Computacional:** Abstração, reconhecimento de padrões e construção de algoritmos antes da codificação final.
+* **Independência de Linguagem:** Compreensão de que a lógica de resolução de um problema (entradas, condicionais, processamento e saídas) é universal, variando apenas a sintaxe da linguagem escolhida.
+* **Preparação para a Plataforma DIO:** Entendimento do funcionamento do ambiente de avaliação automatizada de desafios de código.
+
+---
 
 ## 03.7 Desafio de Código: Fundamentos de Programação com Python
 > *Aguardando atualização...*
