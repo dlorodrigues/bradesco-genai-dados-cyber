@@ -4,9 +4,16 @@ Módulo dedicado aos conceitos fundamentais da linguagem Python, cobrindo config
 
 ---
 
-## 🎓 Certificação do Módulo
+## 🏆 Certificado de Conclusão
 
-> *Aguardando conclusão do módulo para adição do certificado...*
+![Certificado de Introdução ao Python](./assets/certificado-introducao-ao-python.png)
+
+* **Curso:** Introdução ao Python: Primeiros Passos e Fundamentos
+* **Plataforma:** DIO (DigitalInnovationOne)
+* **Aluno:** Douglas Luiz De Oliveira Rodrigues
+* **Carga Horária:** 11 horas
+* **Código de Validação:** `1SO2CQHJ`
+* **Data de Conclusão:** 21 de Agosto de 2026
 
 ---
 
